@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizamareef&label=Profile%20views&color=0e75b6&style=flat" alt="nizamareef" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nizamareef" alt="nizamareef" /></a> </p>
+- 🤝 I’m looking for opportunity **Frontend developer**
 
 - 🔭 I’m currently working on **React**
-
-- 🤝 I’m looking for opportunity **Frontend developer**
 
 - 💬 Ask me about **React**
 
