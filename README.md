@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nizamareef@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/14VsDrUB6o0RlUagVMow13E68plBf8-ni/view?usp=drive_link](https://drive.google.com/file/d/14VsDrUB6o0RlUagVMow13E68plBf8-ni/view?usp=drive_link)
+- 📄 Know about me [https://drive.google.com/file/d/1kepk03IioxBIKyS_UNQerRqfUZIA6e-z/view?usp=drive_link](https://drive.google.com/file/d/1kepk03IioxBIKyS_UNQerRqfUZIA6e-z/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
